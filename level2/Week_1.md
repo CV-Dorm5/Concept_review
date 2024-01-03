@@ -26,7 +26,7 @@
 
 - 종진 : 
 - 현영 : 
-- 태민 : 
+- 태민 : Object Detection 1강 듣고, blog 정리. 서버 환경 설정 및 github 정리. docker 실험 
 - 유민 : 
 - 은성 : 
 - 진하 : 
