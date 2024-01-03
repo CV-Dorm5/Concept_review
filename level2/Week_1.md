@@ -25,7 +25,7 @@
 ---
 
 - 종진 : 
-- 현영 : 
+- 현영 : 강의 2강까지 정리 서버 환경설정 dataset 받기
 - 태민 : Object Detection 1강 듣고, blog 정리. 서버 환경 설정 및 github 정리. docker 실험 
 - 유민 : 
 - 은성 : 
