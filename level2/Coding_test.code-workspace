@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../Coding_test"
+		},
+		{
+			"path": "../../streamlit_ex"
+		},
+		{
+			"path": "../../Desktop/Boostcamp"
+		},
+		{
+			"name": "level1-imageclassification-cv-05",
+			"path": "../../level1-imageclassification-cv-05"
+		},
+		{
+			"name": "Concept_review",
+			"path": ".."
+		},
+		{
+			"name": "level2-objectdetection-cv-10",
+			"path": "../../level2-objectdetection-cv-10"
+		}
+	],
+	"settings": {}
+}
