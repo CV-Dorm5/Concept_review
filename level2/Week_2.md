@@ -42,9 +42,9 @@
 - 종진 : git말썽 리셋할거임
 - 현영 : 이력서작성, detectron2 official tutorial보고 다시할거야
 - 태민 : 서버 정리중 mmdetectron 최신버전을 쓰고 싶어
-- 유민 : 
+- 유민 : cascade로 detection해봤음 근데 0.5는 못넘는중, loss 바꿔서 해보는중
 - 은성 : yolov8도전
-- 진하 : 
+- 진하 : detection task에 대한 이해를 위해 노력중 강의 열심히 들을게요!
 
 - 피어세션 내용 공유
     멘토링 
@@ -69,10 +69,10 @@
 
 - 종진 : 공결
 - 현영 : mmdetection 공부
-- 태민 : 
-- 유민 : 
+- 태민 : efficientDet공부하는 중
+- 유민 : cascade로 detection해봤음 근데 0.5는 못넘는중, loss 바꿔서 해보는중
 - 은성 : YOLOV8 실험 V7과 비교
-- 진하 : 
+- 진하 : detection task에 대한 이해를 위해 노력중 강의 열심히 들을게요!
 
 - 피어세션 내용 공유
 
@@ -82,9 +82,9 @@
 
 - 종진 : NoisyAnchor 적용 시도, detectron2 구조 이해
 - 현영 : mmdetection 공부
-- 태민 : 
-- 유민 : 
+- 태민 : efficientDet공부하는 중
+- 유민 : cascade로 detection해봤음 근데 0.5는 못넘는중, loss 바꿔서 해보는중
 - 은성 : 증강 목록 체크 및 파라미터 조정
-- 진하 : 
+- 진하 : detection task에 대한 이해를 위해 노력중 강의 열심히 들을게요!
 
 - 피어세션 내용 공유
